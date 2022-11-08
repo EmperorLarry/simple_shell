@@ -1,0 +1,1 @@
+Simple_shell is an ALX team collaboration project on Shell. We were tasked with creating a simple shell that mimics the Bash shell. Our shell shall be called hsh, and the project was carried out in C programming Language, shell and betty linter.
